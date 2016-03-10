@@ -13,7 +13,7 @@
 	</description>
 	<activator>@MODULE_PACKAGE@.HeightWeightTrackerModuleActivator</activator>
 	
-	<require_version>1.6.1.12909</require_version>
+	<require_version>${openMRSVersion}</require_version>
 
 	<require_modules>
 	   		<require_module>org.openmrs.module.htmlformentry</require_module>
